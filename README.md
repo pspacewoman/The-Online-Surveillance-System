@@ -84,11 +84,6 @@ The **Online Surveillance System** app is designed to address these concerns by 
 
 3. **Contribute**: We welcome contributions! Whether it’s bug fixes, new features, or documentation improvements, feel free to submit pull requests.
 
-## Screenshots 📸
-
-![App Screenshot 1](link-to-screenshot-1)
-![App Screenshot 2](link-to-screenshot-2)
-
 ## Future Enhancements 🚀
 
 - Integration with additional emergency response services.
