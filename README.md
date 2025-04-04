@@ -5,9 +5,9 @@ Bachelor's Thesis - Computer Science &amp; Engineering
 
 ✅ In today’s world, security breaches, crime rates, and accidents are on the rise, putting the safety of individuals in jeopardy. From road accidents to alarming cases like kidnapping, human trafficking, and even eve-teasing, the lack of effective surveillance systems is a growing concern. 
 
-✅ The Online Surveillance System** is an Android-based application designed to enhance public security through real-time location tracking, emergency alerts, and interactive safety features.
+✅ The Online Surveillance System is an **Android-based application**. My app ensures that help is just a click away.
 
-✅ By integrating real-time surveillance with location tracking, this system aims to reduce crime, improve emergency response times, and provide an essential tool for personal safety. My app ensures that help is just a click away. 
+✅ By integrating real-time surveillance with location tracking, this system aims to reduce crime, improve emergency response times, and provide an essential tool for personal safety. 
 
 ## Problem Statement 🚨
 
@@ -26,15 +26,13 @@ The Online Surveillance System app is designed to address these concerns by prov
 - Panic Button: Instantly send emergency alerts to authorities with a single click.
 - Live Tracking: Track your real-time location and share it with loved ones or authorities for enhanced security.
 - Incognito Mode: For undercover surveillance, track discreetly without being detected.
-- Safety Zones: Visualize nearby safety zones such as police stations, hospitals, and emergency centers on the map.
-- Sting Operation Support: Live stream, record, and upload audio-video content directly from the app to the system server for surveillance and monitoring.
+- Safety Zones: Visualize nearby safety zones, like police stations, hospitals, and emergency centres on the map.
 
 ## Key Features ⚙️
 
 - Emergency Alerts: Send instant distress signals to designated contacts and authorities.
 - Live Location Tracking: Share your real-time location for faster emergency response.
 - Safety Zone Maps: Identify safe zones in your area, including emergency services.
-- Incognito Mode: Keep your surveillance undetectable for covert operations.
 - Sting Operations: Record and upload videos/audio of critical situations to the server for review.
 - Real-time Communication: Seamless interaction between users and authorities using live communication technologies.
 
